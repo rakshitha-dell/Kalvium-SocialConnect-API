@@ -1,0 +1,14 @@
+[
+  {
+    "postId": "1758125881904211",
+    "content": "Hello, this is my first post!",
+    "author": "Alice",
+    "tags": [
+      "welcome",
+      "intro"
+    ],
+    "createdAt": "2025-09-17T16:18:01.904Z",
+    "likes": 0,
+    "status": "published"
+  }
+]
